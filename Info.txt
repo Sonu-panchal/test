@@ -1,4 +1,23 @@
 Hello..
 there
+<<<<<<< HEAD
 
 My self Prachiti
+=======
+<<<<<<< HEAD
+Hieee!
+=======
+
+
+<<<<<<< HEAD
+Anandi
+=======
+
+<<<<<<< HEAD
+shriraj
+=======
+
+Siddhant
+>>>>>>> 0c25b0fd6a34da001864fb3e3ff5078dcfa1cd78
+>>>>>>> 7837a4405ee423cb0ebc242cfff0d1e9a224ff6b
+>>>>>>> 9367954224f99b48e31175d2b2564814bf62696b
